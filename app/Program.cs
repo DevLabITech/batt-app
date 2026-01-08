@@ -15,8 +15,8 @@
             {
                 int count = 1;
 
-                Console.Write($"{i + 1}");
                 Console.Write(($"{i + 1}".Length % 2 == 1) ? " " : ""); // fix -> numeri
+                Console.Write($"{i + 1}");
                 foreach (var column in lettereTabella)
                 {
                     if (count == 1)
