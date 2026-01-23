@@ -7,6 +7,11 @@ mini app console di battaglia navale
 git clone git@github.com:DevLabITech/batt-app.git
 ```
 
+# idea di sviluppo proposta
+1. fase: svilupparla solo tramite console app
+2. fase: svilupparla tramite react
+3. fase: svilupparla tramite godot
+
 # preview gioco
 ```
    a  b  c  d  e  f  g  h  i  j
